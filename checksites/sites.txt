@@ -1,0 +1,16 @@
+http://www.google.com
+https://www.google.com
+http://badhost
+badurl
+http://www.yahoo.com
+http://Alibaba.com
+http://Dictionary.com
+http://NYU.edu
+http://ChicagoTribune.com
+http://Example.com
+http://NOAA.gov
+http://WorldBank.org
+http://Cornell.edu
+http://Ox.ac.uk
+http://UN.org
+http://Gravatar.com
